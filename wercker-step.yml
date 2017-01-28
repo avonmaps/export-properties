@@ -1,0 +1,11 @@
+name: export-properties
+version: 1.0.0
+description: Export the key-value pairs as environment variables from the given file 
+keywords:
+  - variables
+  - export
+  - file
+properties:
+  file:
+    type: string
+    required: true
